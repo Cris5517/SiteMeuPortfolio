@@ -16,6 +16,13 @@ Este repositório contém um site estático de portfólio profissional criado co
 - Ajustes de responsividade para mobile e tablets
 - Link de GitHub atualizado para o perfil `Cris5517`
 
+## Próximos passos
+
+- Adicionar seção de projetos com thumbnails e links ativos
+- Incluir depoimentos ou avaliações para reforçar credibilidade
+- Integrar formulário de contato com back-end ou serviço de email
+- Melhorar animações sutis para uma experiência mais dinâmica
+
 ## Deploy
 
 O site está publicado no GitHub Pages em:
