@@ -9,6 +9,7 @@ Este repositório contém um site estático de portfólio profissional criado co
 - Seções de "Sobre mim", "Experiência e Formação", "Projetos" e "Contato"
 - Estilização profissional com gradientes sutis, bordas arredondadas e sombras suaves
 - Melhorias de usabilidade no menu e nos botões de contato
+- Atualização do texto "Sobre mim" e melhor exposição da foto de perfil
 - Ajustes de responsividade para mobile e tablets
 - Link de GitHub atualizado para o perfil `Cris5517`
 

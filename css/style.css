@@ -129,23 +129,28 @@ textarea {
 .profile-card {
     display: flex;
     justify-content: center;
+    padding: 1rem;
+    border-radius: 50%;
+    background: radial-gradient(circle at top, #ffffff, #e5effa 85%);
+    box-shadow: 0 32px 80px rgba(15, 23, 42, 0.16);
 }
 
 .profile-photo {
-    width: 260px;
+    width: 280px;
     max-width: 100%;
     aspect-ratio: 1;
     border-radius: 50%;
     object-fit: cover;
-    object-position: top 10%;
+    object-position: 50% 18%;
     background: #ffffff;
-    box-shadow: 0 32px 75px rgba(15, 23, 42, 0.14);
-    border: 8px solid rgba(255, 255, 255, 0.95);
-    transition: transform 0.3s ease;
+    box-shadow: 0 34px 85px rgba(15, 23, 42, 0.16);
+    border: 10px solid rgba(255, 255, 255, 0.94);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .profile-photo:hover {
     transform: translateY(-6px);
+    box-shadow: 0 40px 95px rgba(15, 23, 42, 0.22);
 }
 
 .section-sobre {
