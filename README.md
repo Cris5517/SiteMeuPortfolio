@@ -10,6 +10,9 @@ Este repositório contém um site estático de portfólio profissional criado co
 - Estilização profissional com gradientes sutis, bordas arredondadas e sombras suaves
 - Melhorias de usabilidade no menu e nos botões de contato
 - Atualização do texto "Sobre mim" e melhor exposição da foto de perfil
+- Tema verde e azul com gradientes vibrantes e estilo mais moderno
+- Efeito de brilho e hover vibrante nos botões de contato
+- Atualização do título e subtítulo para destacar Back-end, Front-end e Cloud AWS
 - Ajustes de responsividade para mobile e tablets
 - Link de GitHub atualizado para o perfil `Cris5517`
 
