@@ -11,3 +11,9 @@ Este repositório contém um site estático de portfólio profissional criado co
 - Melhorias de usabilidade no menu e nos botões de contato
 - Ajustes de responsividade para mobile e tablets
 - Link de GitHub atualizado para o perfil `Cris5517`
+
+## Deploy
+
+O site está publicado no GitHub Pages em:
+
+https://cris5517.github.io/SiteMeuPortfolio/
